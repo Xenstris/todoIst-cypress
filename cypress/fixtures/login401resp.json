@@ -1,0 +1,13 @@
+{
+  "statusCode": 401,
+  "body": {
+    "error": "Wrong email or password",
+    "error_code": 9,
+    "error_extra": {
+      "event_id": "4740cb62b7f54d56ac44373997fceee2",
+      "retry_after": 2
+    },
+    "error_tag": "AUTHENTICATION_ERROR",
+    "http_code": 401
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "statusCode": 401,
+  "body": {
+    "error": "WTF",
+    "error_code": 19,
+    "error_extra": {
+      "event_id": "4740cb62b7f54d56ac44373997fceee3",
+      "retry_after": 2
+    },
+    "error_tag": "Server Collapse",
+    "http_code": 500
+  }
+}
